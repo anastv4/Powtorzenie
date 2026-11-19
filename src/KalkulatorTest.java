@@ -38,4 +38,5 @@ class KalkulatorTest {
     void testCzyPierwszaJezeliLiczbaZlozona(){
         Assertions.assertFalse(Kalkulator.czyPierwsze(10));
     }
+
 }
